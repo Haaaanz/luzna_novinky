@@ -1,0 +1,11 @@
+[project]
+name = "luzna"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "db-sqlite3>=0.0.1",
+    "lxml-html-clean>=0.4.1",
+    "requests-html>=0.10.0",
+]
